@@ -1,0 +1,1 @@
+# magento_installer-v1.0
